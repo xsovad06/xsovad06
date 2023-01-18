@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Damián Sova
 - 👀 I’m interested in development mostly in Python on backends.
 - 🌱 I finished Bachelor's Degree at BUT FIT, currently I'm studying at PEF MENDELU, Open Informatics, Master's Degree.
-- 📫 Here is a link to my Linkedin: https://www.linkedin.com/in/dami%C3%A1n-sova-129047202/
+- 📫 Here is a link to my Linkedin: https://www.linkedin.com/in/damiansova/
